@@ -12,7 +12,7 @@
     {
       "name": "improved-skill-feats",
       "label": "Improved Skill Feats",
-      "path": "packs/improved-skill-feats",
+      "path": "./packs/improved-skill-feats/000005.ldb",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
