@@ -2,12 +2,26 @@
   "id": "steve-coconuts-improved-skill-feats",
   "title": "Steve Coconut's Improved Skill Feats",
   "version": "1.0.0",
-"authors": [{"name": "Steve Coconut", "discord":"@cyborgcoconut"}],
+  "authors": [
+    {
+      "name": "Steve Coconut",
+      "discord": "@cyborgcoconut"
+    },
+    {
+      "name": "Ben Turner",
+      "discord": "@ApexDaGryph"
+    }
+  ],
   "compatibility": {
     "minimum": "12",
     "verified": "12"
   },
   "description": "The power level of skill feats can vary quite a lot. Some like Battle Medicine are incredibly good and are strongly considered by many players. Others are mostly there for flavour, doing very little mechanically. I found that many of my players don't enjoy skill feats because it is a lot of decision making for low impact. This is my attempt to make skill feats more enjoyable.\n\nImportantly I did not want to take anything away from skill feats. If there is a strange or niche thing a skill feat does that should still be available to you. So nothing has been taken away or nerfed, I have only added.\n\nIn total 161 feats have been changed.",
+  "url": "https://github.com/bturner86239/improved-skill-feats",
+  "manifest": "https://github.com/bturner86239/improved-skill-feats/releases/latest/download/module.json",
+  "download": "https://github.com/bturner86239/improved-skill-feats/releases/latest/download/improved-skill-feats.zip",
+  "license": "CCE",
+  "readme": "https://github.com/bturner86239/improved-skill-feats#readme",
   "packs": [
     {
       "name": "improved-skill-feats",
